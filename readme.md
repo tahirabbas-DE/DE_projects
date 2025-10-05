@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-cherry picking
-=======
-cc
->>>>>>> 98615ef (first_commit)
+# DE_projects
+This repository will be used to work on all Data Engineering Projects
