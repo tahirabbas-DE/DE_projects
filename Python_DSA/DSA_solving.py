@@ -18,7 +18,7 @@ print(f"Output:{b.printNumber()}")
 
 class Solution:
     def studentGrade(self, marks):
-        #marks = int(input("Enter your marks"))
+        marks = int(input("Enter your marks"))
         if marks>=95:
             return "A"
         elif marks>=70 & marks<95:
